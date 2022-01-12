@@ -7,15 +7,15 @@
     margin: 0 auto;
     padding: 0 ;
 }
-
+/* 
 .logo{
     height: 120px;
     width: 200px;
-    background: url(image/kisspng-cinema-film-logo-clip-art-5af65ddd577821.2274202915260953253583.jpg) center ;
+    background: url(image/kisspng-cinema-film-logo-clip-art-5af65ddd577821.2274202915260953253583.jpg)no-repeat center ;
     position: relative;
     border: 2px solid;
     float: left;
-}
+} */
 
 .menu{
     height: 120px;
@@ -43,4 +43,5 @@
     height: 400px;
     border: 2px solid;
     background: url(image/rs-fb-offre-cine-2020.jpeg) no-repeat center;
+    margin-bottom: 10px;
 }
